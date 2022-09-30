@@ -1,0 +1,10 @@
+{
+  "editor.fontSize": 18,
+  "files.associations": {
+    "iostream": "cpp",
+    "deque": "cpp",
+    "string": "cpp",
+    "vector": "cpp"
+  },
+  "git.ignoreLimitWarning": true
+}

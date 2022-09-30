@@ -1,0 +1,115 @@
+{
+  "user_name": "amansaxena1",
+  "num_solved": 488,
+  "num_total": 2174,
+  "ac_easy": 142,
+  "ac_medium": 309,
+  "ac_hard": 37,
+  "stat_status_pairs": [
+    {
+      "stat": {
+        "question_id": 2537,
+        "question__article__live": null,
+        "question__article__slug": null,
+        "question__article__has_video_solution": null,
+        "question__title": "Minimum Time to Kill All Monsters",
+        "question__title_slug": "minimum-time-to-kill-all-monsters",
+        "question__hide": false,
+        "total_acs": 236,
+        "total_submitted": 449,
+        "frontend_question_id": 2403,
+        "is_new_question": true
+      },
+      "status": null,
+      "difficulty": { "level": 3 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 2535,
+        "question__article__live": null,
+        "question__article__slug": null,
+        "question__article__has_video_solution": null,
+        "question__title": "Count Strictly Increasing Subarrays",
+        "question__title_slug": "count-strictly-increasing-subarrays",
+        "question__hide": false,
+        "total_acs": 683,
+        "total_submitted": 858,
+        "frontend_question_id": 2393,
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 2522,
+        "question__article__live": null,
+        "question__article__slug": null,
+        "question__article__has_video_solution": null,
+        "question__title": "Median of a Row Wise Sorted Matrix",
+        "question__title_slug": "median-of-a-row-wise-sorted-matrix",
+        "question__hide": false,
+        "total_acs": 508,
+        "total_submitted": 739,
+        "frontend_question_id": 2387,
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 2517,
+        "question__article__live": null,
+        "question__article__slug": null,
+        "question__article__has_video_solution": null,
+        "question__title": "Choose Edges to Maximize Score in a Tree",
+        "question__title_slug": "choose-edges-to-maximize-score-in-a-tree",
+        "question__hide": false,
+        "total_acs": 444,
+        "total_submitted": 684,
+        "frontend_question_id": 2378,
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 2506,
+        "question__article__live": null,
+        "question__article__slug": null,
+        "question__article__has_video_solution": null,
+        "question__title": "Minimize Maximum Value in a Grid",
+        "question__title_slug": "minimize-maximum-value-in-a-grid",
+        "question__hide": false,
+        "total_acs": 426,
+        "total_submitted": 598,
+        "frontend_question_id": 2371,
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 3 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    }
+  ]
+}
